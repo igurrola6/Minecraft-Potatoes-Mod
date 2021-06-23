@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "potatoes:items/color_potato_sword"
+	}
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+    	"item": "minecraft:potato"
+    },
+    {
+    	"item": "potatoes:sweet_potato"
+    },
+    {
+    	"item": "potatoes:red_potato"
+    },
+    {
+    	"item": "potatoes:pink_potato"
+    },
+    {
+    	"item": "potatoes:toxic_potato"
+    },
+    {
+    	"item": "potatoes:dark_potato"
+    },
+    {
+    	"item": "potatoes:la_bonnette"
+    },
+    {
+    	"item": "potatoes:violet_potato"
+    },
+    {
+    	"item": "potatoes:diamond_potato"
+    }
+  ],
+  "result": {
+    "item": "potatoes:color_potato"
+  }
+}

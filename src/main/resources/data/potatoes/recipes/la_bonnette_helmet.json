@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	  "pattern": [
+	  "XXX",
+    	  "X X"
+  	],
+  	"key": {
+    	  "X": {
+      	    "item": "potatoes:la_bonnette"
+	}
+    	},
+  	"result": {
+    	"item": "potatoes:la_bonnette_helmet"
+	}
+}

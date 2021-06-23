@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "potatoes:blocks/red_potato_ore"
+    }
+}

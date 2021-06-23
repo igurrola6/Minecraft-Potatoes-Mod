@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+    	"item": "potatoes:rotten_potato"
+    },
+    {
+    	"item": "minecraft:poisonous_potato"
+    }
+  ],
+  "result": {
+    "item": "potatoes:toxic_potato"
+  }
+}

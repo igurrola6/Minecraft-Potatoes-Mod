@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	"CAC",
+    	"ABA",
+    	"CAC"
+  	],
+  	"key": {
+    	"A": {
+      		"item": "minecraft:gold_ingot"
+    	},
+    	"B": {
+      		"item": "minecraft:salmon"
+    	},
+	"C": {
+      		"item": "minecraft:sugar"
+    	}
+  	},
+  	"result": {
+    	"item": "potatoes:caviar"
+	}
+}

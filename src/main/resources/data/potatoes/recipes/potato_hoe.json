@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	"XX ",
+    	" * ",
+    	" * "
+  	],
+  	"key": {
+    	"X": {
+      		"item": "minecraft:potato"
+    	},
+    	"*": {
+      		"item": "minecraft:stick"
+    	}
+  	},
+  	"result": {
+    	"item": "potatoes:potato_hoe"
+	}
+}

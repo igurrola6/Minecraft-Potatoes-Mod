@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+    	"item": "potatoes:caviar"
+    },
+    {
+    	"item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "potatoes:violet_potato"
+  }
+}

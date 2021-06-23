@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	" X ",
+    	" X ",
+    	" * "
+  	],
+  	"key": {
+    	"X": {
+      		"item": "potatoes:pink_potato"
+    	},
+    	"*": {
+      		"item": "potatoes:french_fry"
+    	}
+  	},
+  	"result": {
+    	"item": "potatoes:pink_potato_sword"
+	}
+}

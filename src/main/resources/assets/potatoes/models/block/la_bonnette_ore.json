@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "potatoes:blocks/la_bonnette_ore"
+    }
+}

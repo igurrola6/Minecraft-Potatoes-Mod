@@ -1,0 +1,136 @@
+{
+	"item.potatoes.sweet_potato": "Sweet Potato",
+	"item.potatoes.french_fry": "French Fry",
+	"item.potatoes.red_potato": "Red Potato",
+	"item.potatoes.pink_potato": "Pink Potato",
+	"item.potatoes.truffle": "Truffle",
+	"item.potatoes.dark_potato": "Dark Potato",
+	"item.potatoes.rotten_potato": "Rotten Potato",
+	"item.potatoes.toxic_potato": "Toxic Potato",
+	"item.potatoes.caviar": "Caviar",
+	"item.potatoes.violet_potato": "Violet Potato",
+	"item.potatoes.diamond_potato": "Diamond Potato",
+	"item.potatoes.la_bonnette": "La Bonnotte",
+	"item.potatoes.color_potato": "Color Potato",
+	
+	"item.potatoes.potato_sword": "Potato Sword",
+	"item.potatoes.potato_pickaxe": "Potato Pickaxe",
+	"item.potatoes.potato_shovel": "Potato Shovel",
+	"item.potatoes.potato_axe": "Potato Axe",
+	"item.potatoes.potato_hoe": "Potato Hoe",
+	
+	"item.potatoes.sweet_potato_sword": "Sweet Potato Sword",
+	"item.potatoes.sweet_potato_pickaxe": "Sweet Potato Pickaxe",
+	"item.potatoes.sweet_potato_shovel": "Sweet Potato Shovel",
+	"item.potatoes.sweet_potato_axe": "Sweet Potato Axe",
+	"item.potatoes.sweet_potato_hoe": "Sweet Potato Hoe",
+	
+	"item.potatoes.red_potato_sword": "Red Potato Sword",
+	"item.potatoes.red_potato_pickaxe": "Red Potato Pickaxe",
+	"item.potatoes.red_potato_shovel": "Red Potato Shovel",
+	"item.potatoes.red_potato_axe": "Red Potato Axe",
+	"item.potatoes.red_potato_hoe": "Red Potato Hoe",
+	
+	"item.potatoes.pink_potato_sword": "Pink Potato Sword",
+	"item.potatoes.pink_potato_pickaxe": "Pink Potato Pickaxe",
+	"item.potatoes.pink_potato_shovel": "Pink Potato Shovel",
+	"item.potatoes.pink_potato_axe": "Pink Potato Axe",
+	"item.potatoes.pink_potato_hoe": "Pink Potato Hoe",
+	
+	"item.potatoes.truffle_sword": "Truffle Sword",
+	"item.potatoes.truffle_pickaxe": "Truffle Pickaxe",
+	"item.potatoes.truffle_shovel": "Truffle Shovel",
+	"item.potatoes.truffle_axe": "Truffle Axe",
+	"item.potatoes.truffle_hoe": "Truffle Hoe",
+	
+	"item.potatoes.dark_potato_sword": "Dark Potato Sword",
+	"item.potatoes.dark_potato_pickaxe": "Dark Potato Pickaxe",
+	"item.potatoes.dark_potato_shovel": "Dark Potato Shovel",
+	"item.potatoes.dark_potato_axe": "Dark Potato Axe",
+	"item.potatoes.dark_potato_hoe": "Dark Potato Hoe",
+	
+	"item.potatoes.toxic_potato_sword": "Toxic Potato Sword",
+	"item.potatoes.toxic_potato_pickaxe": "Toxic Potato Pickaxe",
+	"item.potatoes.toxic_potato_shovel": "Toxic Potato Shovel",
+	"item.potatoes.toxic_potato_axe": "Toxic Potato Axe",
+	"item.potatoes.toxic_potato_hoe": "Toxic Potato Hoe",
+	
+	"item.potatoes.violet_potato_sword": "Violet Potato Sword",
+	"item.potatoes.violet_potato_pickaxe": "Violet Potato Pickaxe",
+	"item.potatoes.violet_potato_shovel": "Violet Potato Shovel",
+	"item.potatoes.violet_potato_axe": "Violet Potato Axe",
+	"item.potatoes.violet_potato_hoe": "Violet Potato Hoe",
+	
+	"item.potatoes.la_bonnette_sword": "La Bonnotte Sword",
+	"item.potatoes.la_bonnette_pickaxe": "La Bonnotte Pickaxe",
+	"item.potatoes.la_bonnette_shovel": "La Bonnotte Shovel",
+	"item.potatoes.la_bonnette_axe": "La Bonnotte Axe",
+	"item.potatoes.la_bonnette_hoe": "La Bonnotte Hoe",
+	
+	"item.potatoes.color_potato_sword": "Color Potato Sword",
+	"item.potatoes.color_potato_pickaxe": "Color Potato Pickaxe",
+	"item.potatoes.color_potato_shovel": "Color Potato Shovel",
+	"item.potatoes.color_potato_axe": "Color Potato Axe",
+	"item.potatoes.color_potato_hoe": "Color Potato Hoe",
+	
+	
+	"item.potatoes.potato_helmet": "Potato Helmet",
+	"item.potatoes.potato_chestplate": "Potato Chestplate",
+	"item.potatoes.potato_leggings": "Potato Leggings",
+	"item.potatoes.potato_boots": "Potato Boots",
+	
+	"item.potatoes.sweet_potato_helmet": "Sweet Potato Helmet",
+	"item.potatoes.sweet_potato_chestplate": "Sweet Potato Chestplate",
+	"item.potatoes.sweet_potato_leggings": "Sweet Potato Leggings",
+	"item.potatoes.sweet_potato_boots": "Sweet Potato Boots",
+	
+	"item.potatoes.red_potato_helmet": "Red Potato Helmet",
+	"item.potatoes.red_potato_chestplate": "Red Potato Chestplate",
+	"item.potatoes.red_potato_leggings": "Red Potato Leggings",
+	"item.potatoes.red_potato_boots": "Red Potato Boots",
+	
+	"item.potatoes.pink_potato_helmet": "Pink Potato Helmet",
+	"item.potatoes.pink_potato_chestplate": "Pink Potato Chestplate",
+	"item.potatoes.pink_potato_leggings": "Pink Potato Leggings",
+	"item.potatoes.pink_potato_boots": "Pink Potato Boots",
+	
+	"item.potatoes.truffle_helmet": "Truffle Helmet",
+	"item.potatoes.truffle_chestplate": "Truffle Chestplate",
+	"item.potatoes.truffle_leggings": "Truffle Leggings",
+	"item.potatoes.truffle_boots": "Truffle Boots",
+	
+	"item.potatoes.dark_potato_helmet": "Dark Potato Helmet",
+	"item.potatoes.dark_potato_chestplate": "Dark Potato Chestplate",
+	"item.potatoes.dark_potato_leggings": "Dark Potato Leggings",
+	"item.potatoes.dark_potato_boots": "Dark Potato Boots",
+	
+	"item.potatoes.la_bonnette_helmet": "La Bonnotte Helmet",
+	"item.potatoes.la_bonnette_chestplate": "La Bonnotte Chestplate",
+	"item.potatoes.la_bonnette_leggings": "La Bonnotte Leggings",
+	"item.potatoes.la_bonnette_boots": "La Bonnotte Boots",
+	
+	"item.potatoes.toxic_potato_helmet": "Toxic Potato Helmet",
+	"item.potatoes.toxic_potato_chestplate": "Toxic Potato Chestplate",
+	"item.potatoes.toxic_potato_leggings": "Toxic Potato Leggings",
+	"item.potatoes.toxic_potato_boots": "Toxic Potato Boots",
+	
+	"item.potatoes.violet_potato_helmet": "Violet Potato Helmet",
+	"item.potatoes.violet_potato_chestplate": "Violet Potato Chestplate",
+	"item.potatoes.violet_potato_leggings": "Violet Potato Leggings",
+	"item.potatoes.violet_potato_boots": "Violet Potato Boots",
+	
+	"item.potatoes.color_potato_helmet": "Color Potato Helmet",
+	"item.potatoes.color_potato_chestplate": "Color Potato Chestplate",
+	"item.potatoes.color_potato_leggings": "Color Potato Leggings",
+	"item.potatoes.color_potato_boots": "Color Potato Boots",
+	
+	
+	"block.potatoes.red_potato_ore": "Red Potato Ore",
+	"block.potatoes.pink_potato_ore": "Pink Potato Ore",
+	"block.potatoes.rotten_potato_ore": "Rotten Potato Ore",
+	"block.potatoes.la_bonnette_ore": "La Bonnotte Ore",
+	"block.potatoes.enriched_dirt": "Enriched Dirt",
+	
+	
+	"itemGroup.potatoestab": "Mo'Potatoes"
+}

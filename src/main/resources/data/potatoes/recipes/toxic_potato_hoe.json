@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	"XX ",
+    	" * ",
+    	" * "
+  	],
+  	"key": {
+    	"X": {
+      		"item": "potatoes:toxic_potato"
+    	},
+    	"*": {
+      		"item": "potatoes:french_fry"
+    	}
+  	},
+  	"result": {
+    	"item": "potatoes:toxic_potato_hoe"
+	}
+}
