@@ -10,7 +10,7 @@ An image of some items that are added:
 
 An image of some blocks that are added:
 --
-![2021-06-22_23 39 13](https://user-images.githubusercontent.com/71343788/123058544-c908aa00-d3bd-11eb-9d12-66e93a0d9ace.png)
+![2021-06-22_23 42 17](https://user-images.githubusercontent.com/71343788/123058982-31f02200-d3be-11eb-8507-80e51b071eae.png)
 
 An image of an armor that is equipped:
 --
